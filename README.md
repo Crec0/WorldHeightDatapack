@@ -2,7 +2,7 @@
 Changes overworld max build height to 2032 instead of 256. For minecraft 1.17+
 
 # Download
-[World_Height_2032.zip](link)
+[World_Height_2032.zip](https://github.com/Crec0/WorldHeightDatapack/releases/download/1.0.0/World_Height_2032.zip)
 
 # Usage
 
